@@ -7,9 +7,7 @@ These are my notes on git.
 *`git add`: adds files to be tracked
 *`git commit`: dedicate myself to a version
 
----
+What has changed
 
-### Tracking changes
-
-
+what has changed 2
 
